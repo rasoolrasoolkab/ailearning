@@ -3,6 +3,7 @@
 ## numpy 相关
 
 > from numpy import random, mat, eye
+> rasool kaboli
 
 ```py
 '''
